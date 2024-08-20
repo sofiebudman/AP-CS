@@ -17,7 +17,7 @@ public class FirstProgram
         final double GRAVITY = 9.81;
         
         //prints out the variables
-        System.out.println("The number is "+ num + ".\nThe price is $" + price + ".\nThe fruit is " + fruit + ".\nIs is yummy? " + flag + "\nGravity is " + GRAVITY + " m/s^2");
+        System.out.println("The number is "+ num + ".\nThe price is $" + price + ".\nThe fruit is " + fruit + ".\nIs is yummy? " + flag + ".\nGravity is " + GRAVITY + " m/s^2");
     }
  
 }
