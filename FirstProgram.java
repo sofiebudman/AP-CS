@@ -19,6 +19,5 @@ public class FirstProgram
         //prints out the variables
         System.out.println("The number is "+ num + ".\nThe price is $" + price + ".\nThe fruit is " + fruit + ".\nIs is yummy? " + flag + "\nGravity is " + GRAVITY + " m/s^2");
     }
-    // instance variables - replace the example below with your own
  
 }
