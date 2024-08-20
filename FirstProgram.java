@@ -4,7 +4,7 @@
  *
  * @author Sofie Budman
  * @version 8/20/2024
- * description: This is my first program
+ * description: This is my first program for AP Compsci!
  */
 public class FirstProgram
 {
