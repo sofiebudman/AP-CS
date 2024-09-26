@@ -64,7 +64,7 @@ public class CalculatorAgain
             System.out.println("Answer: " +c.mod(param1,param2));
         }
         else if(operator.equals("^")){
-            System.out.println("Answer: " +c.exponent((double)param1,(double)param2));
+            System.out.println("Answer: " +c.exponent(param1, param2));
         }
         else{
             System.out.println("Illegal Operator");
