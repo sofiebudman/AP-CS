@@ -20,6 +20,6 @@ public class CodeProject
     }
     public static void main(String[] args){
         CodeProject c = new CodeProject();
-        System.out.println(c.replaceAllPattern("Peter went home", "e", "eeeeee"));
+        System.out.println(c.replaceAllPattern("Peter went home", "e", "o"));
     }
 }
