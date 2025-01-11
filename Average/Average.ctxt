@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Average
+comment0.text=\n\ Write\ a\ description\ of\ class\ Average\ here.\n\n\ @author\ Sofie\ Budman\n\ @version\ 1/10/2025\n
+comment1.params=min\ max\ size
+comment1.target=Average(int,\ int,\ int)
+comment2.params=
+comment2.target=double\ getAverage()
+comment3.params=
+comment3.target=void\ test()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
