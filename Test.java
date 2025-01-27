@@ -15,6 +15,7 @@ public class Test {
         Test t = new Test("hi", 5);
         t.update(t);
         t.print();
+        int[] a = new int[0];
 
 
     }
@@ -34,5 +35,5 @@ public class Test {
  * arrays can have length zero ex int[] a = new int[0];
  * an int array defaults to 0, a boolean array defaults to false, a double array defaults to 0.0, a string array defaults to null (not an empty string)
  * length of array is a field, not a method so theree are no parentheses
- * zero based indexing
+ * zero based invexing
  */
